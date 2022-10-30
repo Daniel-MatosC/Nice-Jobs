@@ -23,7 +23,7 @@ https://projeto-front-end-theta.vercel.app/
 🌟 Finalidade
 </h2>
 <p>
-O objetivo dessa apliação é centralizar a oferta de mão de obra informal, ou seja, é um ambiente no qual os trabalhadores podem ofertar seus serviços e contratantes podem encontrá-los de maneira prática.
+O objetivo dessa aplicação foi centralizar a oferta de mão de obra informal, ou seja, é um ambiente no qual os trabalhadores podem ofertar seus serviços e contratantes podem encontrá-los de maneira prática. Todo o layout foi pensado para ser o mais simples visualmente possível para ser de fácil entendimento para o publico alvo, visando uma experiência mais tranquila, rápida e eficaz para o usuário.
 </p>
 
 <h2>
